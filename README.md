@@ -6,3 +6,5 @@ Hacer 3  prototipos de juegos en Unity3d
 
 estos mini juegos deben ser UN nivel  solamente por juego ( se puede agregar lo que se requiera o desee en terminos visuales y audio ) 
 
+fecha de entrega  31 de JULIO  de  2026
+
